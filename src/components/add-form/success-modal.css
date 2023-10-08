@@ -1,0 +1,24 @@
+.modal-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.added-image{
+    height: 300px;  
+}
+
+.take-home-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 4px 8px;
+    cursor: pointer;
+    color: black;
+    background-color: rgb(96, 195, 245);
+}
+
+
+
